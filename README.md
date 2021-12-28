@@ -4,4 +4,4 @@ Repositorio de un mini proyecto
 
 ## Proyectos
 
-- [Landing Page de tipo MiniProyecto](https://iamScAm.github.io/MiniProyecto/Site1)
+- [Landing Page de tipo MiniProyecto](https://iamScAm.github.io/site1/Site1)
